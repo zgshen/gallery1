@@ -83,7 +83,7 @@ figcaption {
 }
 
 .content {
-  width: min(90vw, 1080px);
+  width: min(90vw, 980px);
   max-width: none;
   margin: 24px auto;
   padding:1em 0;
